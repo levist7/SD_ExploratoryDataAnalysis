@@ -2,6 +2,7 @@
 Data Visualization and Exploration Project - Speed Dating
 
 🚀 Status: In development
+
 The goal is to try to understand 💘! Being a very complicated subject, we will try to understand what happens during a speed dating and what are the parameters influencing to have a second date.
 
 This is a Kaggle competition on which you can find more details on Kaggle.
