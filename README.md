@@ -1,7 +1,5 @@
 # Speed Dating - Data Visualization and Exploration Project
 
-🚀 Status: In development
-
 The goal is to try to understand 💘! Being a very complicated subject, we will try to understand what happens during a speed dating and what are the parameters influencing to have a second date. This is a Kaggle competition with more details on Kaggle.
 
 **Speed Dating Dataset**
@@ -36,6 +34,7 @@ An exploratory data analysis notebook on key factors influence a second appointm
 * Do certain free time activities help getting participants a date?
 
 Bloc 2 - Jedha Fullstack Datascientist Bootcamp
-link to video:
+
+link to video: https://share.vidyard.com/watch/bvPzBzMmE5TqLyECAsnEQK?
 
 lisbiliroglu@gmail.com
