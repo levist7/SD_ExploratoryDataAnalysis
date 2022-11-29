@@ -36,5 +36,3 @@ An exploratory data analysis notebook on key factors influence a second appointm
 Bloc 2 - Jedha Fullstack Datascientist Bootcamp
 
 link to video: https://share.vidyard.com/watch/bvPzBzMmE5TqLyECAsnEQK?
-
-lisbiliroglu@gmail.com
