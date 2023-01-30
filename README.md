@@ -28,15 +28,13 @@ The dataset also consists of questionnaires gathered from speed dating participa
 [Data](https://www.kaggle.com/code/aeshen/the-secret-to-getting-the-second-date/data)  
 [Keys](https://www.kaggle.com/annavictoria/speed-dating-experiment#Speed%20Dating%20Data%20Key.doc)  
 
-Note: Original data was compiled  from 2002-04 by professors of Columbia Business School: Ray Fisman and Sheena Iyengar for their paper Gender Differences in Mate Selection - Evidence From a Speed Dating Experiment. Link to the article:  https://doi.org/10.1162/qjec.2006.121.2.67
+Note: Original data was compiled  from 2002-04 by professors of Columbia Business School: Ray Fisman and Sheena Iyengar for their paper Gender Differences in Mate Selection - Evidence From a Speed Dating Experiment. [Article](https://doi.org/10.1162/qjec.2006.121.2.67)
 
 ## Pipeline  
 
 <img src = ".pipeline_summary.png">
 
-## Deliverables  
-
-Availabe deliverables 📬:  
+## Deliverables 📬   
 
 1- An exploratory data analysis notebook on key factors influence a second appointment. The questions that were tried to be answered are listed below: 
 
