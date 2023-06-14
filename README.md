@@ -2,7 +2,6 @@
 
 ![python-shield](https://forthebadge.com/images/badges/made-with-python.svg)  
 
-[Video presentation](https://share.vidyard.com/watch/bvPzBzMmE5TqLyECAsnEQK?)  
 
 ## Table of contents
 * [Project](#project)
